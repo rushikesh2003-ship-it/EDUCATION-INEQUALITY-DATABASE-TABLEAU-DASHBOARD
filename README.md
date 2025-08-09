@@ -37,7 +37,7 @@ This Tableau dashboard visualizes disparities in education across ten U.S. state
 3. Hover over charts for detailed tooltips and data points.
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]
+Example: ![Dashboard Preview](https://github.com/rushikesh2003-ship-it/EDUCATION-INEQUALITY-DATABASE-TABLEAU-DASHBOARD/blob/main/Dashboard.png)
 
 
 
