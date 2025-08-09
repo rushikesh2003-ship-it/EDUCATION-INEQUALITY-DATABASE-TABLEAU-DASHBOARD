@@ -36,6 +36,9 @@ This Tableau dashboard visualizes disparities in education across ten U.S. state
 2. Use filters to explore specific states, school types, or grade levels.
 3. Hover over charts for detailed tooltips and data points.
 
+Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview]
+
 
 
 
